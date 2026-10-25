@@ -7,7 +7,7 @@ permalink: /technical-references-dashboard/
 
 # Technical References Dashboard
 
-> 📅 Last verification (UTC): 2026-10-18 00:51:35
+> 📅 Last verification (UTC): 2026-10-25 00:50:54
 
 ## GitHub repositories health status
 
@@ -27,7 +27,6 @@ Project reaching the 🟥 status **are removed**.
 | `2025-01-01T09:04:23Z` (21 months ago) | 🟧 | [rwjblue/ember-cli-content-security-policy/](https://github.com/rwjblue/ember-cli-content-security-policy/) |
 | `2025-01-08T20:57:05Z` (21 months ago) | 🟧 | [Santandersecurityresearch/DrHeader](https://github.com/Santandersecurityresearch/DrHeader) |
 | `2025-01-19T15:56:43Z` (21 months ago) | 🟧 | [riramar/hsecscan](https://github.com/riramar/hsecscan) |
-| `2025-11-14T14:39:37Z` (11 months ago) | 🟩 | [mozilla/django-csp](https://github.com/mozilla/django-csp) |
 | `2026-02-20T14:46:48Z` (8 months ago) | 🟩 | [sdelements/django-security](https://github.com/sdelements/django-security) |
 | `2026-03-07T12:44:50Z` (7 months ago) | 🟩 | [santoru/shcheck](https://github.com/santoru/shcheck) |
 | `2026-05-26T12:52:22Z` (5 months ago) | 🟩 | [google/csp-evaluator](https://github.com/google/csp-evaluator) |
@@ -36,13 +35,14 @@ Project reaching the 🟥 status **are removed**.
 | `2026-07-31T07:19:59Z` (3 months ago) | 🟩 | [tmotagam/Secweb](https://github.com/tmotagam/Secweb) |
 | `2026-08-01T12:16:44Z` (2 months ago) | 🟩 | [danielkov/rust-helmet](https://github.com/danielkov/rust-helmet) |
 | `2026-09-01T21:16:14Z` (1 months ago) | 🟩 | [TypeError/secure](https://github.com/TypeError/secure) |
-| `2026-09-09T14:49:27Z` (1 months ago) | 🟩 | [spatie/laravel-csp](https://github.com/spatie/laravel-csp) |
 | `2026-09-30T20:05:46Z` (1 months ago) | 🟩 | [OWASP/www-project-randomized-header-channel-for-csrf-protection/tree/main/resources/security-headers](https://github.com/OWASP/www-project-randomized-header-channel-for-csrf-protection/tree/main/resources/security-headers) |
-| `2026-10-04T11:01:42Z` (0 months ago) | 🟩 | [helmetjs/helmet](https://github.com/helmetjs/helmet) |
 | `2026-10-06T16:49:41Z` (0 months ago) | 🟩 | [GaProgMan/OwaspHeaders.Core](https://github.com/GaProgMan/OwaspHeaders.Core) |
-| `2026-10-08T22:14:20Z` (0 months ago) | 🟩 | [github/secure_headers](https://github.com/github/secure_headers) |
 | `2026-10-10T16:28:56Z` (0 months ago) | 🟩 | [unrolled/secure](https://github.com/unrolled/secure) |
-| `2026-10-16T17:38:48Z` (0 months ago) | 🟩 | [mdn/mdn-http-observatory](https://github.com/mdn/mdn-http-observatory) |
-| `2026-10-17T20:48:02Z` (0 months ago) | 🟩 | [rfc-st/humble](https://github.com/rfc-st/humble) |
-| `2026-10-17T21:38:59Z` (0 months ago) | 🟩 | [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) |
+| `2026-10-18T15:36:17Z` (0 months ago) | 🟩 | [helmetjs/helmet](https://github.com/helmetjs/helmet) |
+| `2026-10-21T15:22:32Z` (0 months ago) | 🟩 | [github/secure_headers](https://github.com/github/secure_headers) |
+| `2026-10-21T16:41:52Z` (0 months ago) | 🟩 | [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) |
+| `2026-10-22T15:04:12Z` (0 months ago) | 🟩 | [spatie/laravel-csp](https://github.com/spatie/laravel-csp) |
+| `2026-10-22T15:59:36Z` (0 months ago) | 🟩 | [mdn/mdn-http-observatory](https://github.com/mdn/mdn-http-observatory) |
+| `2026-10-24T20:01:09Z` (0 months ago) | 🟩 | [rfc-st/humble](https://github.com/rfc-st/humble) |
+| `2026-10-24T20:57:40Z` (0 months ago) | 🟩 | [mozilla/django-csp](https://github.com/mozilla/django-csp) |
 
