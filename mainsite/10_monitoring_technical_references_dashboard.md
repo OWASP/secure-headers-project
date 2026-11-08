@@ -7,7 +7,7 @@ permalink: /technical-references-dashboard/
 
 # Technical References Dashboard
 
-> 📅 Last verification (UTC): 2026-11-01 00:38:04
+> 📅 Last verification (UTC): 2026-11-08 00:34:30
 
 ## GitHub repositories health status
 
@@ -38,11 +38,11 @@ Project reaching the 🟥 status **are removed**.
 | `2026-09-30T20:05:46Z` (2 months ago) | 🟩 | [OWASP/www-project-randomized-header-channel-for-csrf-protection/tree/main/resources/security-headers](https://github.com/OWASP/www-project-randomized-header-channel-for-csrf-protection/tree/main/resources/security-headers) |
 | `2026-10-06T16:49:41Z` (1 months ago) | 🟩 | [GaProgMan/OwaspHeaders.Core](https://github.com/GaProgMan/OwaspHeaders.Core) |
 | `2026-10-10T16:28:56Z` (1 months ago) | 🟩 | [unrolled/secure](https://github.com/unrolled/secure) |
-| `2026-10-26T15:26:12Z` (1 months ago) | 🟩 | [spatie/laravel-csp](https://github.com/spatie/laravel-csp) |
-| `2026-10-28T15:23:01Z` (1 months ago) | 🟩 | [github/secure_headers](https://github.com/github/secure_headers) |
-| `2026-10-28T15:31:34Z` (1 months ago) | 🟩 | [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) |
 | `2026-10-29T14:33:07Z` (1 months ago) | 🟩 | [mozilla/django-csp](https://github.com/mozilla/django-csp) |
-| `2026-10-30T18:03:26Z` (1 months ago) | 🟩 | [mdn/mdn-http-observatory](https://github.com/mdn/mdn-http-observatory) |
-| `2026-10-31T20:39:46Z` (1 months ago) | 🟩 | [rfc-st/humble](https://github.com/rfc-st/humble) |
-| `2026-11-01T00:02:41Z` (0 months ago) | 🟩 | [helmetjs/helmet](https://github.com/helmetjs/helmet) |
+| `2026-11-01T00:54:22Z` (0 months ago) | 🟩 | [helmetjs/helmet](https://github.com/helmetjs/helmet) |
+| `2026-11-04T15:23:23Z` (0 months ago) | 🟩 | [github/secure_headers](https://github.com/github/secure_headers) |
+| `2026-11-05T11:43:35Z` (0 months ago) | 🟩 | [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) |
+| `2026-11-05T20:50:07Z` (0 months ago) | 🟩 | [mdn/mdn-http-observatory](https://github.com/mdn/mdn-http-observatory) |
+| `2026-11-06T10:53:36Z` (0 months ago) | 🟩 | [spatie/laravel-csp](https://github.com/spatie/laravel-csp) |
+| `2026-11-07T20:38:03Z` (0 months ago) | 🟩 | [rfc-st/humble](https://github.com/rfc-st/humble) |
 
