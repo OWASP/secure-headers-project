@@ -38,6 +38,7 @@ permalink: /technical-resources/
 | **csp-evaluator** | NPM module allowing developers and security experts to check if a Content Security Policy serves as a strong mitigation against XSS attacks. | [👩‍💻](https://github.com/google/csp-evaluator) |
 | **mdn-http-observatory** | Service by Mozilla that checks web sites for security-relevant headers. | [👩‍💻](https://github.com/mdn/mdn-http-observatory) |
 | **shcheck** | A basic tool to check security headers of a website. | [👩‍💻](https://github.com/santoru/shcheck) |
+| **security-headers-action** | GitHub Action that grades the HTTP security headers (HSTS, CSP, framing, nosniff, cookies) of URLs in CI. No dependencies, no external API. | [👩‍💻](https://github.com/Excession-Labs/security-headers-action) |
 
 ## Development Libraries
 
