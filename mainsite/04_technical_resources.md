@@ -39,6 +39,7 @@ permalink: /technical-resources/
 | **mdn-http-observatory** | Service by Mozilla that checks web sites for security-relevant headers. | [👩‍💻](https://github.com/mdn/mdn-http-observatory) |
 | **shcheck** | A basic tool to check security headers of a website. | [👩‍💻](https://github.com/santoru/shcheck) |
 | **security-headers-action** | GitHub Action that grades the HTTP security headers (HSTS, CSP, framing, nosniff, cookies) of URLs in CI. No dependencies, no external API. | [👩‍💻](https://github.com/Excession-Labs/security-headers-action) |
+| **Keybrum Security Headers Checker** | Free web tool that scans a site's HTTP response for CSP, HSTS, X-Frame-Options and more, with a grade and the fix for Next.js, Vercel and Netlify. | [🌎](https://keybrum.com/tools/security-headers-checker) |
 
 ## Development Libraries
 
