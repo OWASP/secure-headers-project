@@ -7,7 +7,7 @@ permalink: /technical-references-dashboard/
 
 # Technical References Dashboard
 
-> 📅 Last verification (UTC): 2026-11-15 00:34:05
+> 📅 Last verification (UTC): 2026-11-18 01:05:59
 
 ## GitHub repositories health status
 
@@ -39,10 +39,11 @@ Project reaching the 🟥 status **are removed**.
 | `2026-11-01T00:54:22Z` (0 months ago) | 🟩 | [helmetjs/helmet](https://github.com/helmetjs/helmet) |
 | `2026-11-05T11:43:35Z` (0 months ago) | 🟩 | [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) |
 | `2026-11-06T10:53:36Z` (0 months ago) | 🟩 | [spatie/laravel-csp](https://github.com/spatie/laravel-csp) |
+| `2026-11-09T18:24:17Z` (0 months ago) | 🟩 | [Excession-Labs/security-headers-action](https://github.com/Excession-Labs/security-headers-action) |
 | `2026-11-10T13:01:34Z` (0 months ago) | 🟩 | [unrolled/secure](https://github.com/unrolled/secure) |
-| `2026-11-10T17:30:59Z` (0 months ago) | 🟩 | [mdn/mdn-http-observatory](https://github.com/mdn/mdn-http-observatory) |
 | `2026-11-11T09:21:35Z` (0 months ago) | 🟩 | [mozilla/django-csp](https://github.com/mozilla/django-csp) |
 | `2026-11-11T15:22:36Z` (0 months ago) | 🟩 | [github/secure_headers](https://github.com/github/secure_headers) |
 | `2026-11-13T17:39:06Z` (0 months ago) | 🟩 | [GaProgMan/OwaspHeaders.Core](https://github.com/GaProgMan/OwaspHeaders.Core) |
-| `2026-11-14T21:03:45Z` (0 months ago) | 🟩 | [rfc-st/humble](https://github.com/rfc-st/humble) |
+| `2026-11-16T09:03:33Z` (0 months ago) | 🟩 | [rfc-st/humble](https://github.com/rfc-st/humble) |
+| `2026-11-17T17:20:23Z` (0 months ago) | 🟩 | [mdn/mdn-http-observatory](https://github.com/mdn/mdn-http-observatory) |
 
