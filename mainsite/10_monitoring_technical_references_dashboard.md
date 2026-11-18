@@ -7,7 +7,7 @@ permalink: /technical-references-dashboard/
 
 # Technical References Dashboard
 
-> 📅 Last verification (UTC): 2026-11-18 01:05:59
+> 📅 Last verification (UTC): 2026-11-18 22:20:40
 
 ## GitHub repositories health status
 
@@ -42,8 +42,8 @@ Project reaching the 🟥 status **are removed**.
 | `2026-11-09T18:24:17Z` (0 months ago) | 🟩 | [Excession-Labs/security-headers-action](https://github.com/Excession-Labs/security-headers-action) |
 | `2026-11-10T13:01:34Z` (0 months ago) | 🟩 | [unrolled/secure](https://github.com/unrolled/secure) |
 | `2026-11-11T09:21:35Z` (0 months ago) | 🟩 | [mozilla/django-csp](https://github.com/mozilla/django-csp) |
-| `2026-11-11T15:22:36Z` (0 months ago) | 🟩 | [github/secure_headers](https://github.com/github/secure_headers) |
 | `2026-11-13T17:39:06Z` (0 months ago) | 🟩 | [GaProgMan/OwaspHeaders.Core](https://github.com/GaProgMan/OwaspHeaders.Core) |
 | `2026-11-16T09:03:33Z` (0 months ago) | 🟩 | [rfc-st/humble](https://github.com/rfc-st/humble) |
-| `2026-11-17T17:20:23Z` (0 months ago) | 🟩 | [mdn/mdn-http-observatory](https://github.com/mdn/mdn-http-observatory) |
+| `2026-11-18T14:53:12Z` (0 months ago) | 🟩 | [mdn/mdn-http-observatory](https://github.com/mdn/mdn-http-observatory) |
+| `2026-11-18T17:50:48Z` (0 months ago) | 🟩 | [github/secure_headers](https://github.com/github/secure_headers) |
 
