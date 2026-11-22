@@ -7,7 +7,7 @@ permalink: /technical-references-dashboard/
 
 # Technical References Dashboard
 
-> 📅 Last verification (UTC): 2026-11-18 22:20:40
+> 📅 Last verification (UTC): 2026-11-22 00:33:21
 
 ## GitHub repositories health status
 
@@ -34,7 +34,6 @@ Project reaching the 🟥 status **are removed**.
 | `2026-07-22T20:45:15Z` (4 months ago) | 🟩 | [andrewlock/NetEscapades.AspNetCore.SecurityHeaders](https://github.com/andrewlock/NetEscapades.AspNetCore.SecurityHeaders) |
 | `2026-07-31T07:19:59Z` (4 months ago) | 🟩 | [tmotagam/Secweb](https://github.com/tmotagam/Secweb) |
 | `2026-08-01T12:16:44Z` (3 months ago) | 🟩 | [danielkov/rust-helmet](https://github.com/danielkov/rust-helmet) |
-| `2026-09-01T21:16:14Z` (2 months ago) | 🟩 | [TypeError/secure](https://github.com/TypeError/secure) |
 | `2026-09-30T20:05:46Z` (2 months ago) | 🟩 | [OWASP/www-project-randomized-header-channel-for-csrf-protection/tree/main/resources/security-headers](https://github.com/OWASP/www-project-randomized-header-channel-for-csrf-protection/tree/main/resources/security-headers) |
 | `2026-11-01T00:54:22Z` (0 months ago) | 🟩 | [helmetjs/helmet](https://github.com/helmetjs/helmet) |
 | `2026-11-05T11:43:35Z` (0 months ago) | 🟩 | [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) |
@@ -43,7 +42,8 @@ Project reaching the 🟥 status **are removed**.
 | `2026-11-10T13:01:34Z` (0 months ago) | 🟩 | [unrolled/secure](https://github.com/unrolled/secure) |
 | `2026-11-11T09:21:35Z` (0 months ago) | 🟩 | [mozilla/django-csp](https://github.com/mozilla/django-csp) |
 | `2026-11-13T17:39:06Z` (0 months ago) | 🟩 | [GaProgMan/OwaspHeaders.Core](https://github.com/GaProgMan/OwaspHeaders.Core) |
-| `2026-11-16T09:03:33Z` (0 months ago) | 🟩 | [rfc-st/humble](https://github.com/rfc-st/humble) |
 | `2026-11-18T14:53:12Z` (0 months ago) | 🟩 | [mdn/mdn-http-observatory](https://github.com/mdn/mdn-http-observatory) |
 | `2026-11-18T17:50:48Z` (0 months ago) | 🟩 | [github/secure_headers](https://github.com/github/secure_headers) |
+| `2026-11-19T15:24:50Z` (0 months ago) | 🟩 | [TypeError/secure](https://github.com/TypeError/secure) |
+| `2026-11-21T20:25:53Z` (0 months ago) | 🟩 | [rfc-st/humble](https://github.com/rfc-st/humble) |
 
