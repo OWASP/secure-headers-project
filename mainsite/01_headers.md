@@ -92,12 +92,11 @@ Strict-Transport-Security: max-age=63072000 ; includeSubDomains ; preload
 
 * <https://tools.ietf.org/html/rfc6797>
 * <https://cheatsheetseries.owasp.org/cheatsheets/HTTP_Strict_Transport_Security_Cheat_Sheet.html>
-* <https://wstg.owasp.org/latest/4-Web_Application_Security_Testing/02-Configuration_and_Deployment_Management/07-HTTP_Strict_Transport_Security/>
+* <https://wstg.owasp.org/latest/06-Configuration_and_Deployment_Management/06-HTTP_Strict_Transport_Security/>
 * <https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security>
 * <https://www.chromium.org/hsts>
 * <https://hstspreload.org/>
 * <https://developer.mozilla.org/en-US/docs/Web/Security/HTTP_strict_transport_security>
-* <https://raymii.org/s/tutorials/HTTP_Strict_Transport_Security_for_Apache_NGINX_and_Lighttpd.html>
 * <https://blogs.windows.com/msedgedev/2015/06/09/http-strict-transport-security-comes-to-internet-explorer-11-on-windows-8-1-and-windows-7/>
 
 ## X-Frame-Options
@@ -821,7 +820,6 @@ Public-Key-Pins: pin-sha256="d6qzRu9zOECb90Uez27xWltNsj0e1Md7GkYYkVoZWmM="; pin-
 * <https://tools.ietf.org/html/rfc7469>
 * <https://en.wikipedia.org/wiki/HTTP_Public_Key_Pinning>
 * <https://developer.mozilla.org/en-US/docs/Web/Security/Public_Key_Pinning>
-* <https://raymii.org/s/articles/HTTP_Public_Key_Pinning_Extension_HPKP.html>
 * <https://labs.detectify.com/2016/07/05/what-hpkp-is-but-isnt/>
 * <https://blog.qualys.com/ssllabs/2016/09/06/is-http-public-key-pinning-dead>
 * <https://scotthelme.co.uk/im-giving-up-on-hpkp/>
